@@ -1,5 +1,5 @@
 # CiscoIPsecVPNSetup
-Script to quick set up Cisco IPsec VPN based on raccoon,  iptables and Ubuntu.
+Script to quick set up Cisco IPsec VPN Server on Ubuntu inside Amazon AWS EC2 based on raccoon, iptables and Ubuntu.
 
 
 **Set up VPN, 6 steps:**
@@ -14,6 +14,8 @@ Script to quick set up Cisco IPsec VPN based on raccoon,  iptables and Ubuntu.
 
 ```sh
 $ git clone https://github.com/yanlookwatchsee/CiscoIPsecVPNSetup.git
+or use this 
+$ git clone https://github.com/maverick12210/AWSEC2CiscoVPN.git
 ```
 3 Run setup script
 
