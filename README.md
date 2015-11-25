@@ -8,7 +8,7 @@ Script to quick set up Cisco IPsec VPN Server on Ubuntu inside Amazon AWS EC2 ba
     
 - Sign in/up Amazon EC2 service, and choose the region that is nearest from your location. (e.g. if you are in China, maybe Singapore is a good choice.)
 - Launch a instance of Ubuntu Server 14.04 LTS
-- Inbound poliy: open UDP port <b>500</b> ans UDP port <b>4500</b> (<b>important</b>)
+- Inbound policy: open UDP port <b>500</b> ans UDP port <b>4500</b> (<b>important</b>)
 
 2 Get source
 
